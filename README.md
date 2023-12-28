@@ -1,4 +1,4 @@
-# RaydecC
+# RaydeQpy
 I am going to apply the RayDec method algorithm (Hobiger et al., 2009) to earthquake coda data.
 
 - First = Coda parts are selected following Perron et al. (2018) from (𝑇𝑐𝑜𝑑𝑎=4.6(𝑇𝑆−𝑇𝑝)+𝑇0 to 𝑇𝑒𝑛𝑑,  where Tp and Ts indicates the P and S wave time arrival, Tcoda the starting time of the coda and 𝑇𝑒𝑛𝑑 corresponds to the time for which 95% of the cumulative energy (evaluated on the three components) between 𝑇𝑝 and the end of the record is reached.
