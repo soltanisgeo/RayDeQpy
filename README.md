@@ -32,8 +32,8 @@ Raydec plot is a tool for plotting and comparing the results between raydec coda
 
 ## References
 
-- Hobiger, M., et al. (2009). *Ellipticity of Rayleigh waves observed by high-rate GNSS*. Geophysical Journal International.
-- Perron, V., et al. (2018). *Coda wave interferometry for coda wave depth inversion*. Journal of Geophysical Research: Solid Earth.
+- Hobiger, M., et al. (2009). 
+- Perron, V., et al. (2018). 
 
 For more detailed information, please refer to the corresponding papers and documentation.
 
