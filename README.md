@@ -1,4 +1,4 @@
-# RayDeQoy
+# RayDeQpy
 
 This repository contains the implementation of the RayDec method algorithm (Hobiger et al., 2009) applied to earthquake coda data.
 
